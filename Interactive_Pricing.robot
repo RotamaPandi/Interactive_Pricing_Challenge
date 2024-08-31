@@ -1,6 +1,5 @@
 *** Settings ***
 Library    SeleniumLibrary
-Library    String
 
 *** Variables ***
 ${URL}    http://localhost:5173/
